@@ -1,0 +1,6 @@
+html{font-size:1rem;color:rgb(140, 0, 26);font-family:"Roboto"}
+
+@media (color-gamut: p3){
+html{color:color(display-p3 0.52373 0 0.09429)}
+}.logo1{width:10em}.logo2{width:10em}.h1{color:red}
+@font-face{font-family:"Roboto";src:url(images/Roboto-Regular.fc2b5060f7accec5cf74.ttf) format("truetype");font-weight:normal;font-style:normal}
